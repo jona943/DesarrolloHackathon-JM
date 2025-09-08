@@ -105,3 +105,4 @@ DesarrolloHackathon-JM/
 	•	Cada herramienta dentro de tools/ es independiente.
 	•	Puedes duplicar la estructura de ejecución para cada script nuevo.
 	•	El proyecto crecerá con más utilidades enfocadas en negocios locales.
+	

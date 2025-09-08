@@ -1,0 +1,5 @@
+google-generativeai
+python-dotenv
+Pillow
+SpeechRecognition
+PyAudio
